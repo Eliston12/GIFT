@@ -24,15 +24,15 @@ MEMORIES = {
 
 P.s А ещё именно в тот день мы окончательно поняли: ты — настоящий окушок! 🐟💙""",
         "files": [
-            "https://drive.google.com/uc?id=13HSjkqBBSOQwTJWdTj7ZK5gRHbKDFDqi",
-            "https://drive.google.com/uc?id=1e9kr5B89m98I-o93GcZ4RlzLYnJP_9Qi"
+            "https://drive.google.com/uc?export=view&id=13HSjkqBBSOQwTJWdTj7ZK5gRHbKDFDqi",
+            "https://drive.google.com/uc?export=view&id=1e9kr5B89m98I-o93GcZ4RlzLYnJP_9Qi"
         ]
     },
     "memory_2": {
         "text": "Текст воспоминания для QR-кода 2...",
         "files": [
-            "https://drive.google.com/uc?id=YOUR_FILE_ID_3",
-            "https://drive.google.com/uc?id=YOUR_FILE_ID_4",
+            "https://drive.google.com/uc?export=view&id=YOUR_FILE_ID_3",
+            "https://drive.google.com/uc?export=view&id=YOUR_FILE_ID_4",
         ]
     },
     # Добавь остальные воспоминания (memory_3 - memory_12)
@@ -49,12 +49,15 @@ async def start_cmd(message: Message, command: CommandStart.Command):
         # Отправляем текст воспоминания
         await message.answer(memory["text"])
 
-        # Отправляем все фото/видео по порядку
+        # Отправляем фото/видео (или даём ссылку, если не получается)
         for file_url in memory["files"]:
-            if file_url.endswith(".mp4"):
-                await message.answer_video(file_url)
-            else:
-                await message.answer_photo(file_url)
+            try:
+                if file_url.endswith(".mp4"):
+                    await message.answer_video(file_url)
+                else:
+                    await message.answer_photo(file_url)
+            except Exception:
+                await message.answer(f"🔗 Не удалось загрузить файл, попробуй открыть вручную: {file_url}")
 
     else:
         await message.answer("Привет! Отправь мне QR-код или число (1-12), и я покажу тебе воспоминание. 💙")
