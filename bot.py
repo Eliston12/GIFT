@@ -38,12 +38,12 @@ P.s А ещё именно в тот день мы окончательно по
     # Добавь остальные воспоминания (memory_3 - memory_12)
 }
 
-# Обработчик команды /start с параметрами (из QR-кода)
-@dp.message(CommandStart())
-async def start_cmd(message: Message, command: CommandStart.Command):
-    param = command.args  # Получаем аргумент команды (/start memory_1)
+# Обработчик команды /start с параметром (из QR-кода)
+@dp.message(CommandStart(deep_link=True))
+async def start_cmd(message: Message, command: CommandStart):
+    param = command.text.split()[-1] if len(command.text.split()) > 1 else None
 
-    if param in MEMORIES:
+    if param and param in MEMORIES:
         memory = MEMORIES[param]
 
         # Отправляем текст воспоминания
@@ -60,7 +60,7 @@ async def start_cmd(message: Message, command: CommandStart.Command):
                 await message.answer(f"🔗 Не удалось загрузить файл, попробуй открыть вручную: {file_url}")
 
     else:
-        await message.answer("Привет! Отправь мне QR-код, и я покажу тебе воспоминание. 💙")
+        await message.answer("Привет! Отправь мне QR-код или число (1-12), и я покажу тебе воспоминание. 💙")
 
 # Логирование
 logging.basicConfig(level=logging.INFO)
