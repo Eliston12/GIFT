@@ -1,9 +1,11 @@
 import os
 import logging
+import asyncio
 from aiogram import Bot, Dispatcher, types
 from aiogram.filters import CommandStart
 from aiogram.types import Message
 from dotenv import load_dotenv
+from aiohttp import web  # Фиктивный веб-сервер для Render
 
 # Загружаем токен бота из .env
 load_dotenv()
@@ -58,12 +60,28 @@ async def start_cmd(message: Message, command: CommandStart):
                 await message.answer(f"🔗 Не удалось загрузить файл, попробуй открыть вручную: {file['url']}")
 
     else:
-        await message.answer("Привет! Отправь мне QR-код или число (1-12), и я покажу тебе воспоминание. 💙")
+        await message.answer("Привет! Отправь мне QR-код, и я покажу тебе воспоминание. 💙")
 
 # Логирование
 logging.basicConfig(level=logging.INFO)
 
-# Запуск бота
+# Фиктивный веб-сервер для Render (чтобы не требовал платный тариф)
+async def handle(request):
+    return web.Response(text="Бот работает!")
+
+async def main():
+    # Запуск бота
+    bot_task = asyncio.create_task(dp.start_polling(bot))
+
+    # Фиктивный сервер
+    app = web.Application()
+    app.router.add_get("/", handle)
+    runner = web.AppRunner(app)
+    await runner.setup()
+    site = web.TCPSite(runner, '0.0.0.0', int(os.getenv("PORT", 10000)))
+    await site.start()
+
+    await bot_task  # Ожидание работы бота
+
 if __name__ == "__main__":
-    import asyncio
-    asyncio.run(dp.start_polling(bot))
+    asyncio.run(main())
