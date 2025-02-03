@@ -62,8 +62,38 @@ P.s А ещё именно в тот день мы окончательно по
             {"url": "https://drive.google.com/uc?export=view&id=1MaSU0w4avmii5Y_eXV-F9AkzocaJPYvZ", "type": "photo"},
             {"url": "https://drive.google.com/uc?export=view&id=1RDLnL5TMPXlCtD2Qb91CgyBsx0IJZFNx", "type": "photo"}
         ]
+    },
+
+    "memory_3": {
+        "text": """Наш переезд в Питер
+
+Наш с тобой переезд в Питер стал не просто началом нового, а целой историей о взрослении, поддержке и любви. Это был наш первый опыт отдельной и сразу же совместной жизни. Я помню каждый день, как приходилось успокаивать и поддерживать мою девочку перед таким важным и ответственным моментом. Хотя, если честно, я тоже волновался — но это было не так важно, потому что я безукоризненно верил, что у нас с тобой всё обязательно получится. Мы особенные.
+
+Столько новых эмоций, незнакомых людей, надежд и встреч в то время наполнили нашу жизнь. Мы учились не только справляться с трудностями, но и радоваться самым простым вещам: утреннему чаю, вечерним разговорам и даже шумному городу.
+
+И пусть были небольшие споры — они только делали нашу связь крепче. Совместная жизнь стала для нас чем-то больше, чем просто быт. Она превратилась в пространство, где мы строили наше «мы», где каждый день был маленьким шагом к счастью.
+
+Всё это навсегда останется в сердце — тёплым, светлым и родным воспоминанием. ❤️""",
+        "files": [
+            {"url": "https://drive.google.com/uc?export=view&id=1N8DPvcaMPTbRZj2dz64Vbu40d8Ud3VcX", "type": "photo"},
+            {"url": "https://drive.google.com/uc?export=view&id=1PY-nNBsbcXtfRgO9p2qavuup0d6TztwE", "type": "photo"},
+            {"url": "https://drive.google.com/uc?export=view&id=19jR1Py0gLgUv4g1cAtgSB4AtEzt_hlgT", "type": "photo"},
+            {"url": "https://drive.google.com/uc?export=view&id=1lM2O4SQzc-fNfJsdUYWXGzZGDUIGz8qj", "type": "photo"},
+            {"url": "https://drive.google.com/uc?export=view&id=1yFOBRhJg_B1etrKhVR0XqQPI-j-vzkl6", "type": "photo"},
+            {"url": "https://drive.google.com/uc?export=view&id=1PPei5swcd3RIhJghM9Zpz2_OWFaqEPDs", "type": "photo"},
+            {"url": "https://drive.google.com/uc?export=view&id=1_IGvtodv4eqoa22WEor6_nxTYtEm42La", "type": "photo"},
+            {"url": "https://drive.google.com/uc?export=view&id=1XBPG5gArya8GbT2pc5EKuE3WNWyrAMUo", "type": "photo"},
+            {"url": "https://drive.google.com/uc?export=view&id=1xCWSSk3ffxgZEAnSZKtxSuJ9qdj5E6Lv", "type": "photo"},
+            {"url": "https://drive.google.com/uc?export=view&id=1vpj46sDR83LMBx0ermEeBIM8O949KQkn", "type": "photo"},
+            {"url": "https://drive.google.com/uc?export=view&id=1h40sYUikMCPzbnIzvckLqzQK6sIXQSyW", "type": "photo"},
+            {"url": "https://drive.google.com/uc?export=view&id=1AccY0D23q21jVs0iMQ3KF78-dfc_QYJY", "type": "photo"},
+            {"url": "https://drive.google.com/uc?export=view&id=1YpSKtKA3RdNqWh-Tw7FggeJu0pHu4Gm4", "type": "photo"},
+            {"url": "https://drive.google.com/uc?export=view&id=1kQNlSAItMdCkgDoXbGutsHXoW4Y8VS7H", "type": "photo"},
+            {"url": "https://drive.google.com/uc?export=view&id=1sByD86vl9BW6apLKV6xbZeyppq9fypzl", "type": "photo"}
+        ]
     }
 }
+
 
 
 # Обработчик команды /start с параметром (из QR-кода)
