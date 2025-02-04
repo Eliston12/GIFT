@@ -85,14 +85,39 @@ P.s А ещё именно в тот день мы окончательно по
             {"url": "https://drive.google.com/uc?export=view&id=1XBPG5gArya8GbT2pc5EKuE3WNWyrAMUo", "type": "photo"},
             {"url": "https://drive.google.com/uc?export=view&id=1xCWSSk3ffxgZEAnSZKtxSuJ9qdj5E6Lv", "type": "photo"},
             {"url": "https://drive.google.com/uc?export=view&id=1vpj46sDR83LMBx0ermEeBIM8O949KQkn", "type": "photo"},
-            {"url": "https://drive.google.com/uc?export=view&id=1h40sYUikMCPzbnIzvckLqzQK6sIXQSyW", "type": "photo"},
-            {"url": "https://drive.google.com/uc?export=view&id=1AccY0D23q21jVs0iMQ3KF78-dfc_QYJY", "type": "photo"},
-            {"url": "https://drive.google.com/uc?export=view&id=1YpSKtKA3RdNqWh-Tw7FggeJu0pHu4Gm4", "type": "photo"},
-            {"url": "https://drive.google.com/uc?export=view&id=1kQNlSAItMdCkgDoXbGutsHXoW4Y8VS7H", "type": "photo"},
-            {"url": "https://drive.google.com/uc?export=view&id=1sByD86vl9BW6apLKV6xbZeyppq9fypzl", "type": "photo"}
+            {"url": "https://drive.google.com/uc?export=view&id=1h40sYUikMCPzbnIzvckLqzQK6sIXQSyW", "type": "photo"}
         ]
-    }
+    },
+
+    "memory_4": {
+        "text": """Поездка в Казань ✈️
+
+Поездка в Казань, сборы перед важным этапом — поездкой на Европу. Мы провели прекрасное время вместе тем летом, и в этот раз уезжать было гораздо сложнее. Мы уже знали, каково это — быть на расстоянии. Мы ощутили все его тяготы и пустоту, которая остаётся, когда не можешь обнять любимого человека. Но именно поэтому я ценил каждое мгновение рядом с тобой ещё сильнее.
+
+Ты всегда была рядом, даже когда я был далеко. Ты помогала мне договариваться с преподавателями, поддерживала, когда становилось тяжело. Я упорно готовился к соревнованиям, надеясь оправдать не только твои надежды, но и свои ожидания. Мы пытались быть ближе хотя бы виртуально — в твоей любимой игре. Каждый раз, когда наши персонажи встречались, я чувствовал, что несмотря на все километры между нами, мы немного ближе. Это были не просто пиксели на экране, а ещё один способ сказать друг другу: "Я рядом".
+
+Но самое важное — я знал, что каждый вечер ты ждёшь меня. Ждёшь моего звонка, моей весточки. Эта мысль давала мне силы и уверенность, что мы всё равно рядом. ❤️""",
+        "files": [
+        {"url": "https://drive.google.com/uc?export=view&id=1Iunch-gMNLQpRNc55EOc6ADsA5CN4GN6", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1MnyGkrQz9U08Yjk9Dw1xsyETKNLF5Q9I", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1Sf7sF_s4FGchJwIyYV8aPYp4pEzrFHzQ", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=1fPLyKgMvwQp6IwDYMVSwfbdA22MhOzsC", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=1M_GsvqquLmG3M6xdXBoNra7HGUc8_AKc", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=1aYLIolAovdAni56aHByCs9ML6XdX-5uk", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=1LvR4MzLYGGRmCH9w1SnIqSi6jucTkBIC", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=1f6q5HIH22bil7OWPz5DHy5v6aPAYd7U1", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1bDW1CpO1sJ6o7ioiuq04u-G5Braq1CkF", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1O472pCBGwCKAZFcLnEhF1t7ZMX03AMUO", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1K9RmNUp3zB04PGbKD3qQv6xlElxsvAhn", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1XWoY-vvr_FPnfZLmJvtXwa6eUcXVQNMG", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1yBmEnLYj08-UP3zAPP-fBRgx6Ut2v3qZ", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1B_g8jzujuDb6FzFg74UiGOtV9E-RebRX", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1kEPU_j77-DfeMQdCVkUO1fqNg3pCfeC-", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=158aHaCq_SVTvKYrW688N1GU1z1FbtVUM", "type": "video"}
+    ]
+
 }
+
 
 
 
