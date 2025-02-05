@@ -115,6 +115,32 @@ P.s А ещё именно в тот день мы окончательно по
         {"url": "https://drive.google.com/uc?export=view&id=1kEPU_j77-DfeMQdCVkUO1fqNg3pCfeC-", "type": "video"},
         {"url": "https://drive.google.com/uc?export=view&id=158aHaCq_SVTvKYrW688N1GU1z1FbtVUM", "type": "video"}
     ]
+
+ }
+
+ "memory_5": {
+        "text": """Поездка в Шанти Хоум с Егором и Лизой
+
+Поездка в Шанти Хоум с Егором и Лизой — это время, когда всё сложилось удивительно легко и просто. Мы отлично проводили время вместе, и, наверное, это была самая удачная поездка за город. Приятная компания, вкусная еда, интересные игры и, конечно, котики с лисами, которые добавляли уюта и особого настроения. Атмосферное и красивое место, где каждый момент казался чуть теплее и ближе к сердцу. ❤️""",
+         "files": [
+        {"url": "https://drive.google.com/uc?export=view&id=177gbfYd2XnG0piKPJ1laRmfmlqFEz-FI", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=17QH1T4LbV8fmBnkFpB5ILRiai7S-7F9b", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=16QM45RQnWErcnRl4UQkFkesM8TI_I38n", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=17Y7RULb8tO40gXsJxLykfdFAvdeuvihM", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=16cY6idCt_eL1Er4_0FOoZbKIAQcJtlUw", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=17DnIHQ168cwl60FXi4Myil4GnfsLKofw", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=171QgLM3tekqVbvOseJdvVzOmVVqJOL-F", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=179F31Fzh5O-jV6DLKT9DPqyH_gU2obnn", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=17LHpzHDPZoGuRrKT9nTaGlkomspw6i3r", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=172gUNJ6xQ17NhiUKPgbGUpcuOM-KTPZX", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=16Qny0FWWRMPtLEZcQDwI8MnjVspbRGqn", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=174h0wKxgSIbmLd4siDDteP2asRU5a_4Y", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=17SXLwCNj4ofiynOqRLMYxWqcOGTBgUN-", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=16u9cozSpB2jcHJuzZjGZp3pWqcts2F2R", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=16zAgW9gl04DJKXOMY00gQ6PTLI9FNYTT", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=16s3RYg3zUXl7UUKs3AH_PHNZCJWjGRpq", "type": "video"}
+    ]
+
  }
 }
 
