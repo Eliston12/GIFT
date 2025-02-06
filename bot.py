@@ -141,7 +141,37 @@ P.s А ещё именно в тот день мы окончательно по
         {"url": "https://drive.google.com/uc?export=view&id=16s3RYg3zUXl7UUKs3AH_PHNZCJWjGRpq", "type": "video"}
     ]
 
+ },
+  "memory_6": {
+    "text": """Поездка в Великий Новгород с Егором и Лизой
+
+На весенних радостях я решил позвать Егора и Лизу к нам в гости — в наш уютный, тёплый и, конечно же, самый лучший город. Хотелось показать им всё самое красивое, все уголки, которыми мы сами восхищались... но очень быстро мы поняли, что даже не знаем, что именно показать.
+
+Но это не имело значения. Мы просто классно тусили дома, бродили по улицам, смеялись и наслаждались моментом. Это было то самое время, когда не нужно ничего особенного — просто хорошая компания и атмосфера.
+
+Именно с этой поездки наша беседа с ними получила своё название — майские жуки. Смешное, случайное... и немного забытое. 💛""",
+
+    "files": [
+        {"url": "https://drive.google.com/uc?export=view&id=18ngR0fHBmGTqP7CJZzGaHVWgpj4Z643O", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=18dC8kfmw0mgLjz_mPOaQlIAgz0sTWDk7", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=18riW4OWBVB0s2ZTb3X4W6zLfxpBBQp3-", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=18msYXuQFI7NVRZiYcebRNINDSwxJ-U3_", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=19-apOcxfJA5hrBwzREo93PWg8jPNozvg", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=19IM0Jf7Cv9kXyMjkmsj4G_e_aMq1ho2j", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=19IH1DkjCw1hGK_XxwMX1ouL16ycAvGp9", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=19J8Hv-xUn_4eqAjJ_Mn422hd6BYsdw5J", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=19E6JCAvUrvR4FG6cmRWbTJRZScQBD882", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=19Bkvx8olEM1lYyMH78ewOCTL9QXBXGL0", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1965_-1NRU2H8vcH9IlUa3cpNJouA3Ogf", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=194XI1bPQ3avtA008A9wVsKdzGVs7iGaB", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=18fV6dCwerGtcElTDfBz3BGHfza5bG03x", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=18dp5CHELEyp15qHGNdIT_ruARkcxx62q", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=18eKndsWXPqjeu6rNVjkZPXmUgCt2FOVI", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=18uYdM3Nhhzex-WIGw-Odz-L2nq3PPoHd", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=18sPDSPKqNmt_6UgWXdOrxr_SgnDQDNvS", "type": "photo"}
+    ]
  }
+
 }
 
 
