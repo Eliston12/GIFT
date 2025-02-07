@@ -170,8 +170,33 @@ P.s А ещё именно в тот день мы окончательно по
         {"url": "https://drive.google.com/uc?export=view&id=18uYdM3Nhhzex-WIGw-Odz-L2nq3PPoHd", "type": "photo"},
         {"url": "https://drive.google.com/uc?export=view&id=18sPDSPKqNmt_6UgWXdOrxr_SgnDQDNvS", "type": "photo"}
     ]
- }
+  },
+  "memory_7": {
+    "text": """Твой 21-й день рождения  
 
+Этот день был особенным, потому что он был твоим. Я хотел подарить тебе не просто праздник, а живые и тёплые воспоминания. Тогда моя девочка поняла, какое это счастье — держать в своих ручках кучу маленьких комочков.  
+
+Я помню, как загорелись твои глаза в тот момент, когда ты впервые взяла в руки этих маленьких, тёплых комочков. Ты поняла, какое это счастье — чувствовать их крошечные лапки.  
+
+Это был день, наполненный радостью, улыбками. День, когда я снова убедился, что самые простые вещи делают тебя по-настоящему счастливой. ❤️""",
+
+    "files": [
+        {"url": "https://drive.google.com/uc?export=view&id=1AC3gGfCeGDdErQLPUjGWdAksDcFJkBnm", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1AFqaJnz3hlgwp32NyDOfNXnHrFtvLVsL", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1AIuoahLMkPpaboH_n_TvHDorILOBeWak", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1AAcBhkTQQu7uWgelbqklWmseENhhA-65", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=19hQqsyGRjHyeL3jnhrYE5Tq2zICZGuul", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1ACDPegogVXnaDfaRxLNvHsqa8aNM3T28", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=1ABeXSkiepLClHW8hozI_lpWbXlf9tKKV", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=1A3BzMjIy0MbY9Q9niBqjvPwZTVKzRDgX", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=19y47ewDgNB3f7QyELCGxGUIW4emy92eb", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=19s2P4cCS0JKw44ET5XtBG1tT6tk2g0Za", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=19kJM9VfbZfU1Js7rr5PJJdtH7XxqNQwJ", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=19c6dZz93LmytlFtoQM_3TilJ-7xJBv79", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=19f29HM8MPtdIQyuqWLP2JPWc4wANvU26", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=19aQMErbPt4LH2dES_onT4FC6RMn6aIeS", "type": "video"}
+    ]
+  }
 }
 
 
