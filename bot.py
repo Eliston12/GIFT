@@ -196,7 +196,39 @@ P.s А ещё именно в тот день мы окончательно по
         {"url": "https://drive.google.com/uc?export=view&id=19f29HM8MPtdIQyuqWLP2JPWc4wANvU26", "type": "video"},
         {"url": "https://drive.google.com/uc?export=view&id=19aQMErbPt4LH2dES_onT4FC6RMn6aIeS", "type": "video"}
     ]
+ },
+     "memory_8" : {
+    "text": """Поездка в Карелию
+
+  Наша первая самостоятельная поездка. Мы долго планировали и ждали — и всё это было не зря. Да, не обошлось без сложностей.
+  Для меня это была, наверное, лучшее путешествие за последние 5 лет. Каждый момент, проведённый рядом с тобой, делал её особенной. Эти дороги, природа, уютные вечера, разговоры — всё сложилось в одно большое и тёплое воспоминание.
+
+  Я очень хочу повторить это снова. И, конечно, только с тобой. Может, в другом месте, но с тем же ощущением свободы, счастья и нашего с тобой маленького приключения. ❤️""",
+
+    "files": [
+        {"url": "https://drive.google.com/uc?export=view&id=1EeOKJAvFq5OWao15uqdK24FeozOpGC0n", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1E_eG8B_S7qsKhrYebqgAZVNyO32lpGEK", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1EXth8Tp92Tsuruqo6rOHLYu7HusFYeJ6", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1ETkvzwLWSp6GBoHuYXqiPD8M-9E5v7YT", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1EI7LEOyy1is9NqKjRGMBRNRKGcGU8zDS", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1EDzGLuKL53zzib2CW-RCKMwE8eLSHWwM", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1Dlsrn9rKQZuY1HLbEXtXC8iu-sUXdwgS", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1DlewaOwoMgE3cB5txaQXOOGsFjif6kNf", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1D_OTEAa28zcIcqboFWzaT1YhQtlNe-cp", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1EP_Ro4waBnWFER0RMZLR0TyMlpQbLQKr", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=1E5tQ3Gmg02slU5HhFW2kjGlBJ28-ZvCt", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=1E2Zmmyr4V4I5o3w0SQXBwFbeQeHsZKnf", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=1DzF4hrITEO9ADPw7Otj64bIrbbzmpcdM", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=1DwZeScevM6Gvvu-uT0r9zfQLkz38aCx8", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=1CVeXLYzmM2JO4-wXbcBalVNRVUP_hPmr", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=1CU-X1C1zH9hqtKkW3Y0QXhLQCyJpJFVi", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=1CV_EIogeTb01KM1ca3RkEx12GCbPhPMU", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=1DdpkAoITJUHl1F9o5zEWih9EOBTo-b3N", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=1CSI_tW-KTnkNbwJ25nb8Bb0cMT4b-p8o", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=1CIg6VHedJ3DbWTtvKzXhiheL9QTb-UlB", "type": "video"}
+    ]
   }
+
 }
 
 
