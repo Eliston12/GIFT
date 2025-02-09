@@ -227,7 +227,29 @@ P.s А ещё именно в тот день мы окончательно по
         {"url": "https://drive.google.com/uc?export=view&id=1CSI_tW-KTnkNbwJ25nb8Bb0cMT4b-p8o", "type": "video"},
         {"url": "https://drive.google.com/uc?export=view&id=1CIg6VHedJ3DbWTtvKzXhiheL9QTb-UlB", "type": "video"}
     ]
-  }
+  },
+ "memory_9" : {
+    "text": """**Мой 19-й день рождения**  
+
+Этот день запомнился мне не только как ещё один год жизни, но и как момент, когда ты открыла для меня новую страсть — машинки и скорость. Причём сделала это идеально: адреналин, азарт, но при этом всё в полной безопасности. Это было настоящее удовольствие, которое я, возможно, никогда бы не попробовал без тебя.  
+
+Но на этом ты, конечно, не остановилась. Ты снова превратила мой день в праздник, где всё было именно так, как я люблю: лучшая компания (ты), крутая музыка и баллончик — маленькая, но важная деталь этого вечера.  
+
+Каждый год ты даришь мне не просто подарки, а эмоции, которые остаются со мной надолго. И этот день — не исключение. ❤️""",
+
+    "files": [
+        {"url": "https://drive.google.com/uc?export=view&id=1GfQZTjM-yYNmWF4MzZcDDMuY2jvuY_hd", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1GpEcPM5iTXCiEp8wVtIMMdapcRheFmVl", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1GcdtORvk-fdpDNjvbUx0IrlnyiNMjjQF", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1GX0wUMBa8ofsN0NrGMkTwcnyub9-xDYl", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1GQ8qA2NrpFGfOgFSpCaKJgTtv2zvpeZE", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1G9dO82cxO2rgkDWJXM4BznqiVcZyjaH2", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1GO68xkKCSzNTXJ_7oEbuhR6ooMZxtv3L", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=1GLqhnXOZLBcG5NFXWIHeru2UBTCQZhLr", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=1HHawbibvyiJ_UigtMDMFE-RQfTbxv11p", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1qzhu2T7TUSPiRzuH8hn3vH9b-Xg5cd1N", "type": "photo"}
+    ]
+ }
 
 }
 
