@@ -197,6 +197,7 @@ P.s А ещё именно в тот день мы окончательно по
         {"url": "https://drive.google.com/uc?export=view&id=19aQMErbPt4LH2dES_onT4FC6RMn6aIeS", "type": "video"}
     ]
  },
+
      "memory_8" : {
     "text": """Поездка в Карелию
 
