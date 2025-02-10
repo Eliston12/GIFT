@@ -263,14 +263,7 @@ P.s А ещё именно в тот день мы окончательно по
 А впереди нас ждало лето — прекрасное, наполненное ожиданиями, планами, новыми горизонтами. Мы ещё не знали, что именно оно принесёт, но точно знали одно — это было только начало. ❤️""",
 
     "files": [
-        {"url": "https://drive.google.com/uc?export=view&id=1I-NExvh8e2qfGxCbbNs88BdJPEyaOt_5", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1HxTWkOhgfEPXJKupM3JYmc0an5x6whMI", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1IS2cGLnCl23QswPnRrYk6CjBQk32UzKm", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1IRDzxU84NeOJM-HmEefFHrI59Os3GrSv", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1IQ6kA75seXw_WssPgDy8Zs2M15j7ukoN", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1IJzlztdOL6wHAvuKRS18fkeOgkVMcNuY", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1IKjDO8ePJ6ihV6rNUvvObQAU34prCc5h", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1I3JN228KWAEhTNHp70bnvSKWD8EUwODm", "type": "photo"}
+        {"url": "https://drive.google.com/uc?export=view&id=1K_I84QwkwWfJO77Yu-9xgMR8NLSW_eXQ", "type": "photo"}
     ]
  }
 }
