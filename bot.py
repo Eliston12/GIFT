@@ -270,19 +270,7 @@ P.s А ещё именно в тот день мы окончательно по
         {"url": "https://drive.google.com/uc?export=view&id=1IQ6kA75seXw_WssPgDy8Zs2M15j7ukoN", "type": "photo"},
         {"url": "https://drive.google.com/uc?export=view&id=1IJzlztdOL6wHAvuKRS18fkeOgkVMcNuY", "type": "photo"},
         {"url": "https://drive.google.com/uc?export=view&id=1IKjDO8ePJ6ihV6rNUvvObQAU34prCc5h", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1I3JN228KWAEhTNHp70bnvSKWD8EUwODm", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1I0xdCnUNFK-FRjtZ_z0T3ILAu82kah9y", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1ISsZeQLgjV1u11ckL5FAY07n7XVEigLd", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1IV5e0fOvqruKHC_Da5Szh5F0QnddF6os", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1IUdDioeaLc6XiyFwb9gDDe5HwNvEGP-p", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1IXu7q3j9ijVAatNfuRFKReBs6_nt0kab", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1IbohlksirhtJ7lRt6R6RZHNGom9xYw6m", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1IciVEs98B1zEMT1XjW97TYe3Xzut0MXR", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1Id7CU_-3id-ixe-vUoeV8P4SCMSLHJem", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1IeOXV3jdC6nwFVhuz197pTVdqx_ndPBJ", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1IeavHSqoQ0nlYN8mq6T3AD9CP_wmk99i", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1Ij0XRBarN3djXudO5XDrGfqz2OEya6Zv", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1IlNWyDWW_PH3PDSMTt_xzUiRUKr_oga-", "type": "photo"}
+        {"url": "https://drive.google.com/uc?export=view&id=1I3JN228KWAEhTNHp70bnvSKWD8EUwODm", "type": "photo"}
     ]
  }
 }
