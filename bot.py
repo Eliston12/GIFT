@@ -263,7 +263,25 @@ P.s А ещё именно в тот день мы окончательно по
 А впереди нас ждало лето — прекрасное, наполненное ожиданиями, планами, новыми горизонтами. Мы ещё не знали, что именно оно принесёт, но точно знали одно — это было только начало. ❤️""",
 
     "files": [
-        {"url": "https://drive.google.com/uc?export=view&id=1K_I84QwkwWfJO77Yu-9xgMR8NLSW_eXQ", "type": "photo"}
+        {"url": "https://drive.google.com/uc?export=view&id=1g_DNeBqnx3wVYfExyLYHad0pNSlPw1YM", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1QCNjnIWUU0mYgmGZtNA0-58AECp8_62I", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1aFu_oSv0Xir_7KxIDiEruuYQqlaEcse2", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1uKTOOcT07ND9c8HaVyr7DVoUto0RPJTi", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1lf_DPHBVfR0yknslKIJkFkdYowbTz10V", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1fJkPXk5LifvoTORngBr1uG4W9gsX71kY", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1TXDJraLG5NowLjO75pVbZNgHKLIBSJis", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1YVLgTMbczYyGNfcBUNd4WQuPnvXceMzO", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1E_pdH8AM8yqnaD6bvJnaiCy8msR19woF", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1_4ZpBA2UCyv7zvKQfEy9Zv4QO26LxfTX", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=16kjUltleoMCApiquiReesC8t9fR-ZLUr", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1dl3nZRFHqxHkhW-4MJye-tFBMUHvd3KH", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1w6sqPDxN8SUtu0eVJ50uiq6DpFhEG7sJ", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=15bt1iCFbuLv88V_gJ254M_wMjjsceJZQ", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1ug38c49b6dwz5fiDLRrUrWq5_5HBhuvl", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1CgtNPJleWYg9Zs-O0CovXvAY7GLER5o9", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=15T7hr4kHa-u_8Iaj4Fst3BDQhYYtt6fw", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1gC4f8LjjlMVQnRe96RbKTiTnhMQWHzsH", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1nnxvfEMn2PB8YX7tpSeUolYfBq9QT6ZJ", "type": "photo"}
     ]
  }
 }
