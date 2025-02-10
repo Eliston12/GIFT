@@ -250,8 +250,41 @@ P.s А ещё именно в тот день мы окончательно по
         {"url": "https://drive.google.com/uc?export=view&id=1HHawbibvyiJ_UigtMDMFE-RQfTbxv11p", "type": "photo"},
         {"url": "https://drive.google.com/uc?export=view&id=1qzhu2T7TUSPiRzuH8hn3vH9b-Xg5cd1N", "type": "photo"}
     ]
- }
+ },
+ "memory_10" : {
+    "text": """**Наш выпускной**  
 
+Наш долгожданный выпускной... Такой чудесный и радостный, но в то же время тревожный. Мы были в ожидании новых возможностей и результатов экзаменов, не зная, что ждёт впереди.  
+
+Это был не просто вечер, а символ завершения целой эпохи — детства. Мы прощались со школой, с привычной жизнью, с той лёгкостью, когда всё кажется понятным и предсказуемым. Впереди нас ждала новая, взрослая жизнь — впервые по-настоящему самостоятельная, вдвоём, в большом и неизведанном мире.  
+
+Но в тот момент всё это уходило на второй план. Для меня самым важным было быть рядом с тобой – первой красавицей выпускного. Сопровождать тебя, видеть твои сияющие глаза, танцевать с тобой вальс… Это было по-настоящему особенное чувство.  
+
+А впереди нас ждало лето — прекрасное, наполненное ожиданиями, планами, новыми горизонтами. Мы ещё не знали, что именно оно принесёт, но точно знали одно — это было только начало. ❤️""",
+
+    "files": [
+        {"url": "https://drive.google.com/uc?export=view&id=1I-NExvh8e2qfGxCbbNs88BdJPEyaOt_5", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1HxTWkOhgfEPXJKupM3JYmc0an5x6whMI", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1IS2cGLnCl23QswPnRrYk6CjBQk32UzKm", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1IRDzxU84NeOJM-HmEefFHrI59Os3GrSv", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1IQ6kA75seXw_WssPgDy8Zs2M15j7ukoN", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1IJzlztdOL6wHAvuKRS18fkeOgkVMcNuY", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1IKjDO8ePJ6ihV6rNUvvObQAU34prCc5h", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1I3JN228KWAEhTNHp70bnvSKWD8EUwODm", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1I0xdCnUNFK-FRjtZ_z0T3ILAu82kah9y", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1ISsZeQLgjV1u11ckL5FAY07n7XVEigLd", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1IV5e0fOvqruKHC_Da5Szh5F0QnddF6os", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1IUdDioeaLc6XiyFwb9gDDe5HwNvEGP-p", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1IXu7q3j9ijVAatNfuRFKReBs6_nt0kab", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1IbohlksirhtJ7lRt6R6RZHNGom9xYw6m", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1IciVEs98B1zEMT1XjW97TYe3Xzut0MXR", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1Id7CU_-3id-ixe-vUoeV8P4SCMSLHJem", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1IeOXV3jdC6nwFVhuz197pTVdqx_ndPBJ", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1IeavHSqoQ0nlYN8mq6T3AD9CP_wmk99i", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1Ij0XRBarN3djXudO5XDrGfqz2OEya6Zv", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1IlNWyDWW_PH3PDSMTt_xzUiRUKr_oga-", "type": "photo"}
+    ]
+ }
 }
 
 
