@@ -263,25 +263,53 @@ P.s А ещё именно в тот день мы окончательно по
 А впереди нас ждало лето — прекрасное, наполненное ожиданиями, планами, новыми горизонтами. Мы ещё не знали, что именно оно принесёт, но точно знали одно — это было только начало. ❤️""",
 
     "files": [
-        {"url": "https://drive.google.com/uc?export=view&id=1g_DNeBqnx3wVYfExyLYHad0pNSlPw1YM", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1QCNjnIWUU0mYgmGZtNA0-58AECp8_62I", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1aFu_oSv0Xir_7KxIDiEruuYQqlaEcse2", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1uKTOOcT07ND9c8HaVyr7DVoUto0RPJTi", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1lf_DPHBVfR0yknslKIJkFkdYowbTz10V", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1fJkPXk5LifvoTORngBr1uG4W9gsX71kY", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1TXDJraLG5NowLjO75pVbZNgHKLIBSJis", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1YVLgTMbczYyGNfcBUNd4WQuPnvXceMzO", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1E_pdH8AM8yqnaD6bvJnaiCy8msR19woF", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1_4ZpBA2UCyv7zvKQfEy9Zv4QO26LxfTX", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=16kjUltleoMCApiquiReesC8t9fR-ZLUr", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1dl3nZRFHqxHkhW-4MJye-tFBMUHvd3KH", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1w6sqPDxN8SUtu0eVJ50uiq6DpFhEG7sJ", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=15bt1iCFbuLv88V_gJ254M_wMjjsceJZQ", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1ug38c49b6dwz5fiDLRrUrWq5_5HBhuvl", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1CgtNPJleWYg9Zs-O0CovXvAY7GLER5o9", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=15T7hr4kHa-u_8Iaj4Fst3BDQhYYtt6fw", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1gC4f8LjjlMVQnRe96RbKTiTnhMQWHzsH", "type": "photo"},
-        {"url": "https://drive.google.com/uc?export=view&id=1nnxvfEMn2PB8YX7tpSeUolYfBq9QT6ZJ", "type": "photo"}
+        {"url": "https://drive.google.com/uc?export=view&id=1KXnLc5M-uQTasheMNpjR4nko72VmPBNm", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1KV6mAIygpJQYlHQOFr5SgqhCRG9cNVbl", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1KUwc5yumPPlX_jkX9TtENAKxLt551D5J", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1KF94wY9HuKat1s8nYBDM0mxi4gYCLrSq", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1KM_6UXWFnjTPU6FI9L9qBiAqGp8F8hkh", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1KIHED0uLmwU56NZJkO99-_nusrvrGFLm", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1KRBSwE13owYqezZ68gYF5gMmJ3PpfWXl", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1KGL0kZqxTC-5ixKoW243ytiOfqgEkX09", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1K8csHPFEOo8U4c4CvzWPUDElJhKPT10M", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1K3uAz9yRNH0Viz6AgfrMDtJNIRFmMqod", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1KhQCSzSF3LFp4Z5qmG0kNwD0b_7o24Q_", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1KZknUXnJybDSN7LS-yal3nCUofznWo4z", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1KXoQALpe1KYZ0hGxYg2nL7jV0AHUx6Eh", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1K8gLsHpQF1l9GXzqUOeTnDQzefOYrqhc", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=1K6GwmO3zja1K0MAEzTAIcxSxwHdETPK2", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=1Kikj3-lPhWN_hmOv4AH4KD8UjFg7Y0gW", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=1JrxNFkweE8aPN67wRN6YCIZP2TRVoFkr", "type": "video"},
+        {"url": "https://drive.google.com/uc?export=view&id=1JtuLHUQ2OgmlbYgiD7IblzUHId-B8UmK", "type": "video"}
+    ]
+ },
+    "memory_11" : {
+    "text": """**Наш опыт «родителей»**  
+
+Тогда мы почувствовали себя родителями маленького существа на две недели. Это было прекрасно и одновременно непросто.  
+
+Нам попалась девочка с характером – и её можно понять, ведь впервые остаться без мамы с чужими людьми непросто. Но, несмотря на это, она нас полюбила и хорошо проводила с нами время.  
+
+Мне понравилось жить с таким чудным товарищем, который выключает мне компьютер в самый неподходящий момент. Даже если это было не всегда удобно, я бы точно повторил. ❤️""",
+
+    "files": [
+        {"url": "https://drive.google.com/uc?export=view&id=1KXnLc5M-uQTasheMNpjR4nko72VmPBNm", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1KV6mAIygpJQYlHQOFr5SgqhCRG9cNVbl", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1KUwc5yumPPlX_jkX9TtENAKxLt551D5J", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1KF94wY9HuKat1s8nYBDM0mxi4gYCLrSq", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1KM_6UXWFnjTPU6FI9L9qBiAqGp8F8hkh", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1KIHED0uLmwU56NZJkO99-_nusrvrGFLm", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1KRBSwE13owYqezZ68gYF5gMmJ3PpfWXl", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1KGL0kZqxTC-5ixKoW243ytiOfqgEkX09", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1K8csHPFEOo8U4c4CvzWPUDElJhKPT10M", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1K3uAz9yRNH0Viz6AgfrMDtJNIRFmMqod", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1K8gLsHpQF1l9GXzqUOeTnDQzefOYrqhc", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1K6GwmO3zja1K0MAEzTAIcxSxwHdETPK2", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1KhQCSzSF3LFp4Z5qmG0kNwD0b_7o24Q_", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1KZknUXnJybDSN7LS-yal3nCUofznWo4z", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1KXoQALpe1KYZ0hGxYg2nL7jV0AHUx6Eh", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1Kikj3-lPhWN_hmOv4AH4KD8UjFg7Y0gW", "type": "photo"},
+        {"url": "https://drive.google.com/uc?export=view&id=1JrxNFkweE8aPN67wRN6YCIZP2TRVoFkr", "type": "photo"}
     ]
  }
 }
