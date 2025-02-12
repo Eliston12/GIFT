@@ -311,6 +311,59 @@ P.s А ещё именно в тот день мы окончательно по
         {"url": "https://drive.google.com/uc?export=view&id=1Kikj3-lPhWN_hmOv4AH4KD8UjFg7Y0gW", "type": "photo"},
         {"url": "https://drive.google.com/uc?export=view&id=1JrxNFkweE8aPN67wRN6YCIZP2TRVoFkr", "type": "photo"}
     ]
+ },
+ "memory_12" : {
+    "text": """**Мы**  
+
+Вот и настало время последней записочки, но далеко не последнего воспоминания. На самом деле, все моменты были отсортированы не по значимости, а по количеству найденных весточек и фотографий.  
+
+Но мы ведь можем продолжать, правда? Предлагаю хотя бы иногда делать парочку милых снимков, чтобы запечатлеть наше время вместе, ведь его ценность с каждым годом только растёт.  
+
+Это были прекрасные 5 лет, и, оглядываясь назад, я бы ничего не менял. Всё идёт так, как должно, потому что мы сами строим своё будущее. Мы вправе делать всё, что захотим, главное — вместе.  
+
+Ты всегда рядом, всегда поддерживаешь меня, даже когда думаешь, что это бесполезно. Но это не так, моя муза.  
+
+На конец остались фотографии из разных периодов, но мимо них я просто не смог пройти. Они — о тебе, о твоей красоте, о твоём творчестве. Давай насладимся ими напоследок. ❤️""",
+
+    "files": [
+    {"url": "https://drive.google.com/uc?export=view&id=1MRiAVcSHH8PHKhqbbzi1S4KYvimGXYl0", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1NQLdLAKgq7OMVsG_MYyco-uleDw83w__", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1NwiqdcjwLVWLHQdTJg513kr1D38bz2-y", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1Lf5yurvQiLHway4_9hNRkhQlHyXBqoO0", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1Ld5s7jp-J4-yaEVWJc9fl2wjqn5l1r-R", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1MPMewgzcazqWseZy7Yk_AAmiYPAnpxDC", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1OPq87OYmCzFQs5E9fU6o4eK8OswYFHcp", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1M306T7PjhqPC7-930SE0BWqUYnzWt6zd", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1NKBwggueBJ62H2c00iR29lzeOmYTzc-n", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1NC6FOAOQwdCrW6hdIbpXDMektU2E-xon", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1NL803vOg11wWZZkwr-UE3BWqk2aZ-CdZ", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1MCtUavE5qq7FHPRt4UzS8m2hK308dy1z", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1MMkwlAWHlN9EPU4uzcGeoTLcFFwCzTDf", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1LxjWqbeJgNBHwXVd3-Ex29qxaHlGCC1a", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1MxQoYQPaVVUy0cdJELCdTNNy01bA0bq1", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1M_M5hA6Xs7OdfhRElrFUGAxReXu5zUkR", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1MV2bErwfWkZh7U9IQ-plhKNPJOFG0JJS", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1NrmsURJJFQU2Wk8cohonl35tKozozIk7", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1MHsylpbdSBw1DKSQqF4BO4u9BzLzTnol", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1LZYYm4ZcnN7GevzydG1zo74iSLEVCPdj", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1LSTl8P6G1rzC0_CFOFBjWDRLqTT-jZ_8", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1LP2yvlqba2SW2_EYzFZM6ItUKsmm2vdj", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1MQ8eafNapzxw5AiTbgzp9GYAI4NxbdcD", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1MP6RaUnEuQOhzp37FC2o2RyYzPbZf5Ig", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1N-rZf3t1iyyf_QYLLc5dSc423k5szdZc", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1NcjrunC42mGfwq1Tyrj9Zvw6aSnnYIMh", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1NxrXItFo9PamIeeYF1gxzupi5VsAe_bQ", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1NTr8Kw_7JnEH_WyJMY3eCLFNh4UDOtBW", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1M32WwpiCa0KdZThFeUf_85D561sQECj8", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1NuAXnTGYhCe2ePMaIwv0Kf231r4t72k5", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1O3-5vJU-fhOzZEgn-Cm2_xJS8eEdL4ps", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1M1RmIz5LWT-qL1Q_uNs3whJOkMsweydB", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1LaobupDdmDKxbj5nsNavfD1KG6jMXA5X", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1M5BmHeIwsJOYl4o4R7GphTS64MOQlZjQ", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1MdHiieor0IiYYP83ZTEL0I-IPzvXhCvy", "type": "photo"},
+    {"url": "https://drive.google.com/uc?export=view&id=1OQJjZDd3LDAs3BbeTTGpWxHSYwnY6IR4", "type": "video"},
+    {"url": "https://drive.google.com/uc?export=view&id=1OQj8F3uN2l0xSJjqGzwAGKEjUxIXr9Bq", "type": "video"}
+]
  }
 }
 
